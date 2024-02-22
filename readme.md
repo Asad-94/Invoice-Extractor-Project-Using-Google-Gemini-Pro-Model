@@ -1,3 +1,5 @@
+### Prompts:
+
 The application takes two inputs from the user: 
 
 1) Image (the Invoice in the format of jpg/png)
